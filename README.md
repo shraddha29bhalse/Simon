@@ -1,3 +1,2 @@
 # Simon
-
-this is a game
+this is a "Simon Says" game
