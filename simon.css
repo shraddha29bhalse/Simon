@@ -1,0 +1,37 @@
+.head{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin:2.5rem;
+
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: rgb(212, 61, 61);
+}
+.yellow{
+    background-color: rgb(226, 226, 59);
+}
+.green{
+    background-color: rgb(81, 201, 81);
+}
+.purple{
+    background-color: rgb(193, 78, 193);
+}
+
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: green;
+}
